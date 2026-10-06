@@ -1,0 +1,66 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: SgNgbqMNYO00PotJcFRY7xIFtlU=
+
+Name: anykernel.sh
+SHA1-Digest: SgZf9nd/axZDZcq/a+sPXiDI0gI=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: ZN70huUzB1waQfaZNQCpfy59l4k=
+
+Name: dtbo.img
+SHA1-Digest: QRYrjxIgmFy7VbFOfk2fJvVjJEA=
+
+Name: f2fs-cold.list
+SHA1-Digest: 92fJ8g/kgwRj1a3HFfdmMKtbAlw=
+
+Name: tools/busybox
+SHA1-Digest: f1GPYwj4eFVvFwwQrY5rMJ92Qaw=
+
+Name: Image
+SHA1-Digest: pmBmIWJZJE7KnM5X+4lvZwm8kf8=
+
+Name: tools/magiskpolicy
+SHA1-Digest: meXBqyLLeDk0n1UG9vv22vP3w8Y=
+
+Name: tools/mkbootimg
+SHA1-Digest: TBUOJEBEmd4z0HASmwPi6jO3Hkc=
+
+Name: tools/unpackbootimg
+SHA1-Digest: +TC2YlSlRbE+pRiI67d9dLR3m4c=
+
+Name: tools/ak3-core.sh
+SHA1-Digest: 6tUOW2h8/xgr7jo+B3wtOaoA5L8=
+
+Name: tools/magiskboot
+SHA1-Digest: OsulyG/3lDy6Nd6Ob503UuvtT88=
+
+Name: f2fs-hot.list
+SHA1-Digest: iC2+dEpsPgaP/k9jA0Fj1EtD35g=
+
+Name: tools/xz
+SHA1-Digest: Mw5WTMhdFqftdgcSzLLkUkyVlug=
+
+Name: dtb.img
+SHA1-Digest: ++/EAOTHrdiw5Wg/olAkKBrMm0w=
+
+Name: LICENSE
+SHA1-Digest: gcP/il25RYn+Wr/TBQbT3aZMs+Q=
+
+Name: tools/lptools_static
+SHA1-Digest: pfS0E0Hj5bVfQCOW3Auh+2c2cmA=
+
+Name: tools/lz4
+SHA1-Digest: 4d5gW9huHPg198uUA+YOIWCcC+0=
+
+Name: tools/atools.sh
+SHA1-Digest: 7j/FeoxAN8u5X9s4LPmJTfC9lC0=
+
+Name: tools/httools_static
+SHA1-Digest: 3eqU7b/a+tdG2p8dBj76tR20HkY=
+
+Name: tools/fec
+SHA1-Digest: QrCL4cGRR1fFEeur10viI2LePic=
+

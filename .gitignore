@@ -1,0 +1,14 @@
+/out*/
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+.tmp_*
+*.order
+*.symvers
+*.rej
+*.orig
+*.bak
+.vscode/
+.idea/
